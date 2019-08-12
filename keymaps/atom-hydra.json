@@ -3,6 +3,19 @@
     "ctrl-alt-o": "atom-hydra:toggle",
     "shift-enter": "atom-hydra:evalLine",
     "ctrl-enter": "atom-hydra:evalBlock",
-    "ctrl-alt-enter": "atom-hydra:evalBlock"
+    "ctrl-alt-enter": "atom-hydra:evalBlock",
+    "ctrl-shift-enter": "atom-hydra:evalAll",
+    "ctrl-alt-m" : "atom-hydra:toggleMessages",
+    "ctrl-shift-h" : "atom-hydra:toggleCode",
+    "numpad1" : "atom-hydra:bind1",
+    "numpad2": "atom-hydra:bind2",
+    "numpad3": "atom-hydra:bind3",
+    "numpad4": "atom-hydra:bind4",
+    "numpad5": "atom-hydra:bind5",
+    "numpad6": "atom-hydra:bind6",
+    "numpad7": "atom-hydra:bind7",
+    "numpad8": "atom-hydra:bind8",
+    "numpad9": "atom-hydra:bind9",
+    "numpad0": "atom-hydra:bind0"
   }
 }
